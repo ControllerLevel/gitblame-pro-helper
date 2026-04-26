@@ -1,6 +1,5 @@
 # Git Blame
 
-[![Quality Gate Status](https://raw.githubusercontent.com/ControllerLevel/gitblame-pro-helper/main/images/measure.png)](https://sonarcloud.io/summary/new_code?id=Sertion_vscode-gitblame)
 
 Features:
 * See Git blame information in the status bar for the currently selected line.
